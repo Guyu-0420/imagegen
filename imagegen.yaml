@@ -1,0 +1,26 @@
+template: journal
+title: 水彩出图
+subtitle: 字和画分开做
+intro: |
+  模型只画纸和插画。
+  中文用系统字体贴上。
+  参考图负责锁住风格。
+  换内容只改一份表。
+sections:
+  - 底图不写字。字是排完版之后再叠上去的。
+catalog_title: 目录
+catalog:
+  - 第1步，填写标题、正文和目录
+  - 第2步，按参考图生成无字底图
+  - 第3步，叠上真实中文再导出
+illustrations:
+  - 手绘咖啡杯
+  - 桃子果篮
+  - 黑色手绘星星
+  - 右下角绿色灌木
+fonts:
+  title: {size: 52, color: "#EBA53A"}
+  subtitle: {size: 32, color: "#A6C67B"}
+  body: {size: 24, color: "#292929"}
+  catalog: {size: 44, color: "#EBA53A"}
+  caption: {size: 20, color: "#292929"}
